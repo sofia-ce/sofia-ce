@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Sofia, a Masters student at @lunduniversity studying GIS. I'm also a note-taking app enthusiast! I'm currently working on/learning how to make an Obsidian Plugin.
 <!--
 **sofia-ce/sofia-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
